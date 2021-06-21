@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **React.js**
 
+- StopStalk Profile [https://www.stopstalk.com/user/profile/prateek_sri](https://www.stopstalk.com/user/profile/prateek_sri)
+
 - 💬 Ask me about **programming**
 
 - 📫 How to reach me **prateeksdr4@gmail.com**
