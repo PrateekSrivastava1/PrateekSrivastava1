@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- StopStalk Profile [https://www.stopstalk.com/user/profile/prateek_sri](https://www.stopstalk.com/user/profile/prateek_sri)
+- StopStalk Profile [StopStalk](https://www.stopstalk.com/user/profile/prateek_sri)
 
 - 💬 Ask me about **programming**
 
 - 📫 How to reach me **prateeksdr4@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1LODJa5v_gPJ14XagUsmj86gP-T_J0S5d/view?usp=sharing)
 
 - ⚡ Fun fact **I can code all day.**
 
