@@ -7,9 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/prateek_pixels" target="blank"><img src="https://img.shields.io/twitter/follow/prateek_pixels?logo=twitter&style=for-the-badge" alt="prateek_pixels" /></a> </p>
 
-- 🔭 I’m currently working on **Bookies**
-
-- 🌱 I’m currently learning **React.js**
 
 - StopStalk Profile [StopStalk](https://www.stopstalk.com/user/profile/prateek_sri)
 
@@ -17,7 +14,7 @@
 
 - 📫 How to reach me **prateeksdr4@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1LODJa5v_gPJ14XagUsmj86gP-T_J0S5d/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1SC-KV0kPu1IIQloKIiPMLF6cYtS8Mobr/view?usp=sharing)
 
 - ⚡ Fun fact **I can code all day.**
 
