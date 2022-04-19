@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prateeksdr4@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/143k5CoVxS6ssjHtSMD1EJLPFR8Plhzfq/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1yZXv5mthWBGn7SdmT8O1PFDEjwgB_Koi/view?usp=sharing)
 
 - ⚡ Fun fact **I can code all day.**
 
