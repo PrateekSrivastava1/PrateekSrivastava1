@@ -6,7 +6,6 @@
 - 💬 Ask me about **programming**
 - 📫 How to reach me **prateeksdr4@gmail.com**
 - StopStalk Profile [StopStalk](https://www.stopstalk.com/user/profile/prateek_sri)
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1yZXv5mthWBGn7SdmT8O1PFDEjwgB_Koi/view?usp=sharing)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pixywaygalaxy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prateeksrivastava12) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13718194) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@prateeksrivastava5628) 
